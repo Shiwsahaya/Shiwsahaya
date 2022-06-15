@@ -24,6 +24,36 @@
 ---
 
 ### :man_technologist: About Me :
+I have 2.5+ years of experience in the development of scalable and robust backend systems using Java, Spring Boot, JavaScript, TypeScript, Node.js, Jest, and other related technologies.
+
+As a backend developer, I have written APIs, test cases, logging, and deployed code as well on the server using Jenkins, apache, tomcat, and Nginx.
+
+I also tried my hands on frontend technologies HTML, CSS, Angular, and ReactJs.
+
+
+Tools/Technologies/Libraries/Practices I have played with and followed during my career till now:
+
+
+- Java
+- Spring Boot
+- Hibernate
+- JavaScript
+- TypeScript
+- Node.js
+- Express.js
+- Jest
+- Apache ActiveMQ
+- SQL, PostgreSQL, MariaDB, MongoDB, Neo4j
+- ORM, MyBatis
+- Tools for Logging - Papertrail, Kibana, QRadar
+- Jenkins
+- Apache
+- Tomcat
+- Nginx
+- HTML, CSS
+- Angular
+- ReactJS
+- Azure Function
 <!--
 **Shiwsahaya/Shiwsahaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
