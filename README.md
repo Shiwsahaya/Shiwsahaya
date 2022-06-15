@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -13,6 +13,12 @@
   </a> -->
 </div>
   <img src="https://komarev.com/ghpvc/?username=shiwsahaya&style=flat-square&color=blue" alt=""/>
+   <h1>
+  Hi there 👋
+</h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <!--
 **Shiwsahaya/Shiwsahaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
