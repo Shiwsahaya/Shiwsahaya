@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-I have 2.5+ years of experience in the development of scalable and robust backend systems using Java, Spring Boot, JavaScript, TypeScript, Node.js, Jest, and other related technologies.
+I have 3+ years of experience in the development of scalable and robust backend systems using Java, Spring Boot, JavaScript, TypeScript, Node.js, Jest, and other related technologies.
 
 As a backend developer, I have written APIs, test cases, logging, and deployed code as well on the server using Jenkins, apache, tomcat, and Nginx.
 
